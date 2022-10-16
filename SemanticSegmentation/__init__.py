@@ -1,4 +1,4 @@
-from .MSFFA import DeepLabv3Plus
+from .MSFFA import MSFFA
 from .Unet import UNet
 from .attunet import AttU_Net
 from .unetplus import NestedUNet
